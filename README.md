@@ -1,2 +1,2 @@
-# Vodić
+# Vodič
 Aplikacija za hakaton
