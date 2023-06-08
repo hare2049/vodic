@@ -1,0 +1,2 @@
+# vodic
+Aplikacija za hakaton
